@@ -1,23 +1,23 @@
 /*Normal*/
-@fontface {
+@font-face {
  font-family : THSarabunNew ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunNew/THSarabunNew.ttf") ;
 }
 
 /*Bold*/
-@fontface {
+@font-face {
  font-family : THSarabunNew-Bold ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunNew/THSarabunNew%20Bold.ttf") ;
 }
 
 /*Italic*/
-@fontface {
+@font-face {
  font-family : THSarabunNew-Italic ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunNew/THSarabunNew%20Italic.ttf") ;
 }
 
 /*Bold Italic*/
-@fontface {
+@font-face {
  font-family : THSarabunNew-BoldItalic ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunNew/THSarabunNew%20BoldItalic.ttf") ;
 }
