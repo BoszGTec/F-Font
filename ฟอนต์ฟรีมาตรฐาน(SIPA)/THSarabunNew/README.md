@@ -1,5 +1,5 @@
 ```css
-@import url("");
+@import url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunNew/style.css");
 ```
 
 ```css
