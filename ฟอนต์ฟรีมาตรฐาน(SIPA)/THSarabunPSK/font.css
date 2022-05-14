@@ -6,18 +6,18 @@
 
 /*Bold*/
 @font-face {
- font-family : THSarabunNew-Bold ;
+ font-family : THSarabunPSK-Bold ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunPSK/THSarabun%20Bold.ttf") format("ttf") ; 
 }
 
 /*Italic*/
 @font-face {
- font-family : THSarabunNew-Italic ;
+ font-family : THSarabunPSK-Italic ;
  src : url("https://boszgtec.github.io/F-Font/ฟอนต์ฟรีมาตรฐาน(SIPA)/THSarabunPSK/THSarabun Italic.ttf") format("ttf") ;
 }
 
 /*Bold Italic*/
 @font-face {
- font-family : THSarabunNew-BoldItalic ;
+ font-family : THSarabunPSK-BoldItalic ;
  src : url("THSarabun Bold Italic.ttf") format("ttf") ;  
 }
